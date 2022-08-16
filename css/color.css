@@ -1,0 +1,14 @@
+:root {
+	--blue_primary: #2a7ae4;
+	--blue_secondary: #d4e4fa;
+	--blue_primary_hover: #003479;
+	--blue_img: #535353;
+	--white_background: #f5f5f5;
+	--white_footer: #eaf2fd;
+	--white_100: #ffffff;
+	--placeholder: #a2a2a2;
+	--text-color: #464646;
+	--background_header: #000;
+	--erro: rgb(233, 63, 63);
+	--enviar: rgb(93, 189, 93);
+}
